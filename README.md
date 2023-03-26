@@ -102,7 +102,7 @@ When accessing the application for the first time, you need to use the Admin e-m
 
 To manage users, you can use the [Cognito Users Pool console](https://console.aws.amazon.com/cognito/users).
 
-### Remove the application
+### Remove the application 
 
 To remove the application open the AWS CloudFormation Console, click the Virtual Proctor project, right-click and select "_Delete Stack_". Your stack will take some time to be deleted. You can track its progress in the "Events" tab. When it is done, the status will change from "_DELETE_IN_PROGRESS_" to "_DELETE_COMPLETE_". It will then disappear from the list.
 
